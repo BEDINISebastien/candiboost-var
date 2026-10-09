@@ -1,6 +1,14 @@
-# Flux RSS Emploi-Territorial : département du Var (83)
-# Lien officiel « Flux RSS » de la recherche départementale.
+# EMPLOI TERRITORIAL — VAR (83)
 https://www.emploi-territorial.fr/rss?search-dept=083
 
-# Flux ciblé : métiers administratifs / assistant administratif
+# EMPLOI TERRITORIAL — MÉTIERS ADMINISTRATIFS
 https://www.emploi-territorial.fr/rss?search-dept=083&search-metier=C10513
+
+# CAF DU VAR
+# Source à intégrer dans collect.py : La Sécu recrute
+
+# CPAM DU VAR
+# Source à intégrer dans collect.py : La Sécu recrute
+
+# PRÉFECTURE DU VAR
+# Source à intégrer dans collect.py : Choisir le service public
