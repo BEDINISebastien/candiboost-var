@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T10:48:51.239471+00:00",
+  "updated_at": "2026-10-09T10:59:22.128416+00:00",
   "offers": [
     {
       "title": "Remote Office Assistant",
@@ -279,5 +279,5 @@
     "Flux personnalisé: 100 entrées",
     "Flux personnalisé: 20 entrées"
   ],
-  "note": "Sources publiques, pas de garantie de couverture exhaustive; vérifier chaque annonce."
+  "note": "Sources RSS/Atom publiques uniquement ; les pages de recrutement HTML nécessitent une intégration dédiée. Vérifier chaque annonce."
 }
