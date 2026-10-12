@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-10-11T16:15:33.936459+00:00",
+  "updated_at": "2026-10-12T06:25:48.177293+00:00",
   "offers": [
     {
       "title": "Remote Office Assistant",
       "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
       "description": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong communication skills, discretion, attention to detail, and a willingness to learn and grow within a fast-paced remote work environment. \n As an Office Assistant, you will help support daily administrative operations, assist with entry-level bookkeeping, organize client documents, support internal reporting, and help maintain accurate company records. This position offers strong growth potential for the right candidate, including opportunities",
-      "date": "Fri, 11 Sep 2026 20:16:48 GMT",
+      "date": "Sun, 11 Oct 2026 20:17:27 GMT",
       "source": "Remotive (emplois à distance)",
+      "location": ""
+    },
+    {
+      "title": "Responsable cellule travaux bâtiment (h/f)",
+      "url": "https://www.emploi-territorial.fr/offre/o083260930001553-responsable-cellule-travaux-batiment?mtm_campaign=rss",
+      "description": "Employeur :   Conseil Départemental du Var \n                      Métier(s) :   Assistant de suivi de travaux bâtiment \n                      Grade(s) :   Technicien principal de 1ère classe, Technicien principal de 2ème classe, Technicien \n                      Date de publication :   du 12/10/2026 au 12/11/2026 \n                      Date limite de candidature :   12/11/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Oui \n                                          Temps de travail :   Temps complet (35h00) \n                                          Lieu de travail :   Saint-Maximin-la-Sa",
+      "date": "Thu, 08 Oct 2026 00:00:00 +0000",
+      "source": "Flux personnalisé",
       "location": ""
     },
     {
@@ -202,14 +210,6 @@
       "location": ""
     },
     {
-      "title": "Assistant de gestion financière, budgétaire ou comptable (h/f)",
-      "url": "https://www.emploi-territorial.fr/offre/o083261001000330-assistant-gestion-financiere-budgetaire-comptable?mtm_campaign=rss",
-      "description": "Employeur :   MAIRIE DE TOULON \n                      Métier(s) :   Assistant de gestion financière, budgétaire ou comptable \n                      Grade(s) :   Rédacteur, Rédacteur principal de 2ème classe, Rédacteur principal de 1ère classe, Adjoint administratif, Adjoint adm. principal de 2ème classe, Adjoint adm. principal de 1ère classe \n                      Date de publication :   du 01/10/2026 au 01/11/2026 \n                      Date limite de candidature :   01/11/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Oui \n                                          Temps de travail :   ",
-      "date": "Thu, 01 Oct 2026 00:00:00 +0000",
-      "source": "Flux personnalisé",
-      "location": ""
-    },
-    {
       "title": "Assistant de gestion administrative volant (h/f) - Unité territoriale sociale Littoral Sud Sainte-Baume, Service affaires générales",
       "url": "https://www.emploi-territorial.fr/offre/o083260930001088-assistant-gestion-administrative-volant-unite-territoriale-sociale-littoral-sud-sainte-baume-service-affaires-generales?mtm_campaign=rss",
       "description": "Employeur :   Conseil Départemental du Var \n                      Métier(s) :   Assistant de gestion administrative \n                      Grade(s) :   Adjoint administratif, Adjoint adm. principal de 2ème classe, Adjoint adm. principal de 1ère classe \n                      Date de publication :   du 30/09/2026 au 30/10/2026 \n                      Date limite de candidature :   30/10/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Oui \n                                          Temps de travail :   Temps complet (35h00) \n                                          Lieu de travail :   Six-Fou",
@@ -272,10 +272,18 @@
       "date": "Thu, 09 Jul 2026 12:44:51 +0000",
       "source": "Flux personnalisé",
       "location": ""
+    },
+    {
+      "title": "Assistant de gestion financière, budgétaire ou comptable (h/f)",
+      "url": "https://www.emploi-territorial.fr/offre/o083261001000330-assistant-gestion-financiere-budgetaire-comptable?mtm_campaign=rss",
+      "description": "Employeur :   MAIRIE DE TOULON \n                      Métier(s) :   Assistant de gestion financière, budgétaire ou comptable \n                      Grade(s) :   Rédacteur, Rédacteur principal de 2ème classe, Rédacteur principal de 1ère classe, Adjoint administratif, Adjoint adm. principal de 2ème classe, Adjoint adm. principal de 1ère classe \n                      Date de publication :   du 01/10/2026 au 01/11/2026 \n                      Date limite de candidature :   01/11/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Oui \n                                          Temps de travail :   ",
+      "date": "Thu, 01 Oct 2026 00:00:00 +0000",
+      "source": "Flux personnalisé",
+      "location": ""
     }
   ],
   "log": [
-    "Remotive (emplois à distance): 18 entrées",
+    "Remotive (emplois à distance): 17 entrées",
     "Flux personnalisé: 100 entrées",
     "Flux personnalisé: 20 entrées"
   ],
