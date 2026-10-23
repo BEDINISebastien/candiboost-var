@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T16:32:31.624714+00:00",
+  "updated_at": "2026-10-23T06:34:06.109303+00:00",
   "offers": [
     {
       "title": "Remote Office Assistant",
@@ -7,6 +7,14 @@
       "description": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong communication skills, discretion, attention to detail, and a willingness to learn and grow within a fast-paced remote work environment. \n As an Office Assistant, you will help support daily administrative operations, assist with entry-level bookkeeping, organize client documents, support internal reporting, and help maintain accurate company records. This position offers strong growth potential for the right candidate, including opportunities",
       "date": "Sun, 11 Oct 2026 20:17:27 GMT",
       "source": "Remotive (emplois à distance)",
+      "location": ""
+    },
+    {
+      "title": "Agent d'accueil au CCAS  (h/f)",
+      "url": "https://www.emploi-territorial.fr/offre/o083261021001283-agent-accueil-ccas?mtm_campaign=rss",
+      "description": "Employeur :   CCAS de GRIMAUD \n                      Métier(s) :   Chargé d'accueil \n                      Grade(s) :   Adjoint administratif \n                      Date de publication :   du 23/10/2026 au 23/11/2026 \n                      Date limite de candidature :   30/11/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Non \n                                          Temps de travail :   Temps complet (35h00) \n                                          Lieu de travail :   Grimaud \n                                         Plus de détails sur  https://www.emploi-territorial.fr/offre/o08326",
+      "date": "Thu, 22 Oct 2026 00:00:00 +0000",
+      "source": "Flux personnalisé",
       "location": ""
     },
     {
@@ -234,6 +242,14 @@
       "location": ""
     },
     {
+      "title": "Responsable du domaine public (h/f)",
+      "url": "https://www.emploi-territorial.fr/offre/o083260709001500-responsable-domaine-public?mtm_campaign=rss",
+      "description": "Employeur :   DRAGUIGNAN \n                      Métier(s) :   Assistant de gestion administrative \n                      Grade(s) :   Rédacteur, Rédacteur principal de 2ème classe, Rédacteur principal de 1ère classe \n                      Date de publication :   du 02/09/2026 au 01/11/2026 \n                      Date limite de candidature :   01/11/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Oui \n                                          Temps de travail :   Temps complet (35h00) \n                                          Lieu de travail :   Draguignan \n                               ",
+      "date": "Thu, 09 Jul 2026 12:44:51 +0000",
+      "source": "Flux personnalisé",
+      "location": ""
+    },
+    {
       "title": "ANTTL1281 - ASSISTANT DE GESTION ADMINISTRATIVE (h/f)",
       "url": "https://www.emploi-territorial.fr/offre/o083260917000828-anttl1281-assistant-gestion-administrative?mtm_campaign=rss",
       "description": "Employeur :   Métropole Toulon Provence Méditerranée \n                      Métier(s) :   Assistant de gestion administrative \n                      Grade(s) :   Adjoint administratif, Adjoint adm. principal de 2ème classe, Adjoint adm. principal de 1ère classe \n                      Date de publication :   du 21/09/2026 au 22/10/2026 \n                      Date limite de candidature :   22/10/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Oui \n                                          Temps de travail :   Temps complet (35h00) \n                                          Lieu de travail :",
@@ -254,14 +270,6 @@
       "url": "https://www.emploi-territorial.fr/offre/o083260917000710-ac07-gestionnaire-administratif-assemblEes?mtm_campaign=rss",
       "description": "Employeur :   Métropole Toulon Provence Méditerranée \n                      Métier(s) :   Assistant de gestion administrative \n                      Grade(s) :   Adjoint administratif, Adjoint adm. principal de 2ème classe, Adjoint adm. principal de 1ère classe \n                      Date de publication :   du 21/09/2026 au 22/10/2026 \n                      Date limite de candidature :   22/10/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Oui \n                                          Temps de travail :   Temps complet (35h00) \n                                          Lieu de travail :",
       "date": "Thu, 17 Sep 2026 00:00:00 +0000",
-      "source": "Flux personnalisé",
-      "location": ""
-    },
-    {
-      "title": "Responsable du domaine public (h/f)",
-      "url": "https://www.emploi-territorial.fr/offre/o083260709001500-responsable-domaine-public?mtm_campaign=rss",
-      "description": "Employeur :   DRAGUIGNAN \n                      Métier(s) :   Assistant de gestion administrative \n                      Grade(s) :   Rédacteur, Rédacteur principal de 2ème classe, Rédacteur principal de 1ère classe \n                      Date de publication :   du 02/09/2026 au 01/11/2026 \n                      Date limite de candidature :   01/11/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Oui \n                                          Temps de travail :   Temps complet (35h00) \n                                          Lieu de travail :   Draguignan \n                               ",
-      "date": "Thu, 09 Jul 2026 12:44:51 +0000",
       "source": "Flux personnalisé",
       "location": ""
     },
@@ -555,9 +563,9 @@
     }
   ],
   "log": [
-    "Remotive (emplois à distance): 9 entrées",
+    "Remotive (emplois à distance): 10 entrées",
     "Flux personnalisé: 100 entrées",
-    "Flux personnalisé: 22 entrées"
+    "Flux personnalisé: 20 entrées"
   ],
   "note": "Sources RSS/Atom publiques uniquement ; les pages de recrutement HTML nécessitent une intégration dédiée. Vérifier chaque annonce."
 }
