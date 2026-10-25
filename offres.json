@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T16:24:06.097248+00:00",
+  "updated_at": "2026-10-25T06:30:38.490095+00:00",
   "offers": [
     {
       "title": "Remote Office Assistant",
@@ -597,7 +597,7 @@
   "log": [
     "Remotive (emplois à distance): 10 entrées",
     "Flux personnalisé: 100 entrées",
-    "Flux personnalisé: 20 entrées"
+    "Flux personnalisé: 19 entrées"
   ],
   "note": "Sources RSS/Atom publiques uniquement ; les pages de recrutement HTML nécessitent une intégration dédiée. Vérifier chaque annonce."
 }
