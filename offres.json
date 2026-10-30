@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T16:48:02.578863+00:00",
+  "updated_at": "2026-10-30T06:46:51.189744+00:00",
   "offers": [
     {
       "title": "Remote Office Assistant",
@@ -218,14 +218,6 @@
       "location": ""
     },
     {
-      "title": "CHARGE(E) DE LA COMMANDE PUBLIQUE - ADJOINT AU CHEF DE SERVICE  (h/f)",
-      "url": "https://www.emploi-territorial.fr/offre/o083261016001123-charge-e-commande-publique-adjoint-chef-service?mtm_campaign=rss",
-      "description": "Employeur :   LA GARDE \n                      Métier(s) :   Instructeur gestionnaire des marchés publics \n                      Grade(s) :   Rédacteur, Rédacteur principal de 2ème classe, Rédacteur principal de 1ère classe \n                      Date de publication :   du 21/10/2026 au 20/12/2026 \n                      Date limite de candidature :   20/12/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Non \n                                          Temps de travail :   Temps complet (35h00) \n                                          Lieu de travail :   La Garde \n                          ",
-      "date": "Wed, 21 Oct 2026 09:03:20 +0000",
-      "source": "Flux personnalisé",
-      "location": ""
-    },
-    {
       "title": "Assistant pédagogique Campus Connecté Draguignan (h/f)",
       "url": "https://www.emploi-territorial.fr/offre/o083261012001149-assistant-pedagogique-campus-connecte-draguignan?mtm_campaign=rss",
       "description": "Employeur :   Dracénie Provence verdon Agglomération - DRAGUIGNAN \n                      Métier(s) :   Assistant de gestion administrative \n                      Grade(s) :   Adjoint adm. principal de 1ère classe, Adjoint administratif, Adjoint adm. principal de 2ème classe \n                      Date de publication :   du 16/10/2026 au 16/11/2026 \n                      Date limite de candidature :   16/11/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Non \n                                          Temps de travail :   Temps non complet (18h00) \n                                          ",
@@ -270,6 +262,14 @@
       "url": "https://www.emploi-territorial.fr/offre/o083260709001500-responsable-domaine-public?mtm_campaign=rss",
       "description": "Employeur :   DRAGUIGNAN \n                      Métier(s) :   Assistant de gestion administrative \n                      Grade(s) :   Rédacteur, Rédacteur principal de 2ème classe, Rédacteur principal de 1ère classe \n                      Date de publication :   du 02/09/2026 au 01/11/2026 \n                      Date limite de candidature :   01/11/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Oui \n                                          Temps de travail :   Temps complet (35h00) \n                                          Lieu de travail :   Draguignan \n                               ",
       "date": "Thu, 09 Jul 2026 12:44:51 +0000",
+      "source": "Flux personnalisé",
+      "location": ""
+    },
+    {
+      "title": "CHARGE(E) DE LA COMMANDE PUBLIQUE - ADJOINT AU CHEF DE SERVICE  (h/f)",
+      "url": "https://www.emploi-territorial.fr/offre/o083261016001123-charge-e-commande-publique-adjoint-chef-service?mtm_campaign=rss",
+      "description": "Employeur :   LA GARDE \n                      Métier(s) :   Instructeur gestionnaire des marchés publics \n                      Grade(s) :   Rédacteur, Rédacteur principal de 2ème classe, Rédacteur principal de 1ère classe \n                      Date de publication :   du 21/10/2026 au 20/12/2026 \n                      Date limite de candidature :   20/12/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Non \n                                          Temps de travail :   Temps complet (35h00) \n                                          Lieu de travail :   La Garde \n                          ",
+      "date": "Wed, 21 Oct 2026 09:03:20 +0000",
       "source": "Flux personnalisé",
       "location": ""
     },
@@ -699,7 +699,7 @@
     }
   ],
   "log": [
-    "Remotive (emplois à distance): 12 entrées",
+    "Remotive (emplois à distance): 13 entrées",
     "Flux personnalisé: 100 entrées",
     "Flux personnalisé: 22 entrées"
   ],
