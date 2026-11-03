@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T07:13:29.129368+00:00",
+  "updated_at": "2026-11-03T06:58:14.876649+00:00",
   "offers": [
     {
       "title": "Remote Office Assistant",
@@ -194,22 +194,6 @@
       "location": ""
     },
     {
-      "title": "Gestionnaire ressources humaines – carrière / paie / absentéisme (h/f)",
-      "url": "https://www.emploi-territorial.fr/offre/o083261022001283-gestionnaire-ressources-humaines-carriere-paie-absenteisme?mtm_campaign=rss",
-      "description": "Employeur :   Ca de la Provence Verte - Brignoles \n                      Métier(s) :   Assistant ou assistante de gestion des ressources humaines \n                      Grade(s) :   Adjoint administratif \n                      Date de publication :   du 22/10/2026 au 21/12/2026 \n                      Date limite de candidature :   30/11/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Oui \n                                          Temps de travail :   Temps complet (35h00) \n                                          Lieu de travail :   Brignoles \n                                          Ré",
-      "date": "Thu, 22 Oct 2026 00:00:00 +0000",
-      "source": "Flux personnalisé",
-      "location": ""
-    },
-    {
-      "title": "Assistant socio-éducatif - unité territoriale sociale Toulon - service enfance évaluation 2 (h/f)",
-      "url": "https://www.emploi-territorial.fr/offre/o083261021001199-assistant-socio-educatif-unite-territoriale-sociale-toulon-service-enfance-evaluation-2?mtm_campaign=rss",
-      "description": "Employeur :   Conseil Départemental du Var \n                      Métier(s) :   Travailleur social \n                      Grade(s) :   Assistant socio-éducatif, Assistant socio-éducatif de classe exceptionnelle \n                      Date de publication :   du 22/10/2026 au 22/11/2026 \n                      Date limite de candidature :   22/11/2026 \n                      Type d'emploi :   Remplacement temporaire d'un agent sur emploi permanent \n                                          Ouvert aux contractuels :   Oui \n                                          Temps de travail :   Temps complet (35h00) \n                                          Lieu de travail :   Toulon \n                    ",
-      "date": "Thu, 22 Oct 2026 00:00:00 +0000",
-      "source": "Flux personnalisé",
-      "location": ""
-    },
-    {
       "title": "Assistant pédagogique Campus Connecté Draguignan (h/f)",
       "url": "https://www.emploi-territorial.fr/offre/o083261012001149-assistant-pedagogique-campus-connecte-draguignan?mtm_campaign=rss",
       "description": "Employeur :   Dracénie Provence verdon Agglomération - DRAGUIGNAN \n                      Métier(s) :   Assistant de gestion administrative \n                      Grade(s) :   Adjoint adm. principal de 1ère classe, Adjoint administratif, Adjoint adm. principal de 2ème classe \n                      Date de publication :   du 16/10/2026 au 16/11/2026 \n                      Date limite de candidature :   16/11/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Non \n                                          Temps de travail :   Temps non complet (18h00) \n                                          ",
@@ -226,6 +210,30 @@
       "location": ""
     },
     {
+      "title": "DIT - Assistant technique et administratif du responsable du service prélèvements (h/f)",
+      "url": "https://www.emploi-territorial.fr/offre/o083260928000038-dit-assistant-technique-administratif-responsable-service-prelevements?mtm_campaign=rss",
+      "description": "Employeur :   Conseil Départemental du Var \n                      Métier(s) :   Assistant de gestion administrative \n                      Grade(s) :   Technicien, Technicien principal de 2ème classe, Technicien principal de 1ère classe, Rédacteur, Rédacteur principal de 2ème classe, Rédacteur principal de 1ère classe \n                      Date de publication :   du 28/09/2026 au 27/11/2026 \n                      Date limite de candidature :   27/11/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Non \n                                          Temps de travail :   Temps complet (35h00) \n ",
+      "date": "Mon, 28 Sep 2026 00:00:00 +0000",
+      "source": "Flux personnalisé",
+      "location": ""
+    },
+    {
+      "title": "Gestionnaire ressources humaines – carrière / paie / absentéisme (h/f)",
+      "url": "https://www.emploi-territorial.fr/offre/o083261022001283-gestionnaire-ressources-humaines-carriere-paie-absenteisme?mtm_campaign=rss",
+      "description": "Employeur :   Ca de la Provence Verte - Brignoles \n                      Métier(s) :   Assistant ou assistante de gestion des ressources humaines \n                      Grade(s) :   Adjoint administratif \n                      Date de publication :   du 22/10/2026 au 21/12/2026 \n                      Date limite de candidature :   30/11/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Oui \n                                          Temps de travail :   Temps complet (35h00) \n                                          Lieu de travail :   Brignoles \n                                          Ré",
+      "date": "Thu, 22 Oct 2026 00:00:00 +0000",
+      "source": "Flux personnalisé",
+      "location": ""
+    },
+    {
+      "title": "Assistant socio-éducatif - unité territoriale sociale Toulon - service enfance évaluation 2 (h/f)",
+      "url": "https://www.emploi-territorial.fr/offre/o083261021001199-assistant-socio-educatif-unite-territoriale-sociale-toulon-service-enfance-evaluation-2?mtm_campaign=rss",
+      "description": "Employeur :   Conseil Départemental du Var \n                      Métier(s) :   Travailleur social \n                      Grade(s) :   Assistant socio-éducatif, Assistant socio-éducatif de classe exceptionnelle \n                      Date de publication :   du 22/10/2026 au 22/11/2026 \n                      Date limite de candidature :   22/11/2026 \n                      Type d'emploi :   Remplacement temporaire d'un agent sur emploi permanent \n                                          Ouvert aux contractuels :   Oui \n                                          Temps de travail :   Temps complet (35h00) \n                                          Lieu de travail :   Toulon \n                    ",
+      "date": "Thu, 22 Oct 2026 00:00:00 +0000",
+      "source": "Flux personnalisé",
+      "location": ""
+    },
+    {
       "title": "Un(e) gestionnaire RH de proximité (H/F)",
       "url": "https://www.emploi-territorial.fr/offre/o083261002000201-e-gestionnaire-rh-proximite?mtm_campaign=rss",
       "description": "Employeur :   Dracénie Provence verdon Agglomération - DRAGUIGNAN \n                      Métier(s) :   Assistant de gestion administrative \n                      Grade(s) :   Adjoint adm. principal de 1ère classe, Rédacteur principal de 1ère classe, Rédacteur principal de 2ème classe, Rédacteur, Adjoint administratif, Adjoint adm. principal de 2ème classe \n                      Date de publication :   du 02/10/2026 au 02/11/2026 \n                      Date limite de candidature :   02/11/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Oui \n                                          Temps d",
@@ -238,14 +246,6 @@
       "url": "https://www.emploi-territorial.fr/offre/o083260928001152-gestionnaire-administratif?mtm_campaign=rss",
       "description": "Employeur :   HYERES LES PALMIERS \n                      Métier(s) :   Assistant de gestion administrative \n                      Grade(s) :   Adjoint administratif \n                      Date de publication :   du 02/10/2026 au 02/11/2026 \n                      Date limite de candidature :   02/11/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Non \n                                          Temps de travail :   Temps complet (35h00) \n                                          Lieu de travail :   Hyères \n                                         Plus de détails sur  https://www.emploi-terri",
       "date": "Fri, 02 Oct 2026 11:50:14 +0000",
-      "source": "Flux personnalisé",
-      "location": ""
-    },
-    {
-      "title": "DIT - Assistant technique et administratif du responsable du service prélèvements (h/f)",
-      "url": "https://www.emploi-territorial.fr/offre/o083260928000038-dit-assistant-technique-administratif-responsable-service-prelevements?mtm_campaign=rss",
-      "description": "Employeur :   Conseil Départemental du Var \n                      Métier(s) :   Assistant de gestion administrative \n                      Grade(s) :   Technicien, Technicien principal de 2ème classe, Technicien principal de 1ère classe, Rédacteur, Rédacteur principal de 2ème classe, Rédacteur principal de 1ère classe \n                      Date de publication :   du 28/09/2026 au 27/11/2026 \n                      Date limite de candidature :   27/11/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Non \n                                          Temps de travail :   Temps complet (35h00) \n ",
-      "date": "Mon, 28 Sep 2026 00:00:00 +0000",
       "source": "Flux personnalisé",
       "location": ""
     },
@@ -739,9 +739,9 @@
     }
   ],
   "log": [
-    "Remotive (emplois à distance): 12 entrées",
+    "Remotive (emplois à distance): 11 entrées",
     "Flux personnalisé: 100 entrées",
-    "Flux personnalisé: 20 entrées"
+    "Flux personnalisé: 18 entrées"
   ],
   "note": "Sources RSS/Atom publiques uniquement ; les pages de recrutement HTML nécessitent une intégration dédiée. Vérifier chaque annonce."
 }
