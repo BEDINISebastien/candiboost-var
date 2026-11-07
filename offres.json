@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T06:49:36.775834+00:00",
+  "updated_at": "2026-11-07T16:35:10.830311+00:00",
   "offers": [
     {
       "title": "Remote Office Assistant",
@@ -22,14 +22,6 @@
       "url": "https://www.emploi-territorial.fr/offre/o083261106000516-e-responsable-formation-pilotage-effectifs-gpeec?mtm_campaign=rss",
       "description": "Employeur :   Dracénie Provence verdon Agglomération - DRAGUIGNAN \n                      Métier(s) :   Responsable de la gestion administrative du personnel, Responsable de la formation \n                      Grade(s) :   Attaché principal, Attaché, Rédacteur principal de 1ère classe, Rédacteur principal de 2ème classe, Rédacteur \n                      Date de publication :   du 06/11/2026 au 06/12/2026 \n                      Date limite de candidature :   06/12/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Oui \n                                          Temps de travail :   Temps comple",
       "date": "Fri, 06 Nov 2026 00:00:00 +0000",
-      "source": "Flux personnalisé",
-      "location": ""
-    },
-    {
-      "title": "Gestionnaire Commande Publique - contrats complexes (h/f)",
-      "url": "https://www.emploi-territorial.fr/offre/o083261106000440-gestionnaire-commande-publique-contrats-complexes?mtm_campaign=rss",
-      "description": "Employeur :   Ca de la Provence Verte - Brignoles \n                      Métier(s) :   Instructeur gestionnaire des marchés publics \n                      Grade(s) :   Rédacteur, Rédacteur principal de 2ème classe, Rédacteur principal de 1ère classe, Adjoint administratif, Adjoint adm. principal de 2ème classe, Adjoint adm. principal de 1ère classe \n                      Date de publication :   du 06/11/2026 au 31/12/2026 \n                      Date limite de candidature :   14/12/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Oui \n                                          Temps de trava",
-      "date": "Fri, 06 Nov 2026 12:45:24 +0000",
       "source": "Flux personnalisé",
       "location": ""
     },
@@ -190,6 +182,14 @@
       "url": "https://www.emploi-territorial.fr/offre/o083260928000038-dit-assistant-technique-administratif-responsable-service-prelevements?mtm_campaign=rss",
       "description": "Employeur :   Conseil Départemental du Var \n                      Métier(s) :   Assistant de gestion administrative \n                      Grade(s) :   Technicien, Technicien principal de 2ème classe, Technicien principal de 1ère classe, Rédacteur, Rédacteur principal de 2ème classe, Rédacteur principal de 1ère classe \n                      Date de publication :   du 28/09/2026 au 27/11/2026 \n                      Date limite de candidature :   27/11/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Non \n                                          Temps de travail :   Temps complet (35h00) \n ",
       "date": "Mon, 28 Sep 2026 00:00:00 +0000",
+      "source": "Flux personnalisé",
+      "location": ""
+    },
+    {
+      "title": "Gestionnaire Commande Publique - contrats complexes (h/f)",
+      "url": "https://www.emploi-territorial.fr/offre/o083261106000440-gestionnaire-commande-publique-contrats-complexes?mtm_campaign=rss",
+      "description": "Employeur :   Ca de la Provence Verte - Brignoles \n                      Métier(s) :   Instructeur gestionnaire des marchés publics \n                      Grade(s) :   Rédacteur, Rédacteur principal de 2ème classe, Rédacteur principal de 1ère classe, Adjoint administratif, Adjoint adm. principal de 2ème classe, Adjoint adm. principal de 1ère classe \n                      Date de publication :   du 06/11/2026 au 31/12/2026 \n                      Date limite de candidature :   14/12/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Oui \n                                          Temps de trava",
+      "date": "Fri, 06 Nov 2026 12:45:24 +0000",
       "source": "Flux personnalisé",
       "location": ""
     },
