@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T14:39:44.857941+00:00",
+  "updated_at": "2026-11-10T21:43:43.174630+00:00",
   "offers": [
     {
       "title": "Remote Office Assistant",
@@ -7,6 +7,14 @@
       "description": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong communication skills, discretion, attention to detail, and a willingness to learn and grow within a fast-paced remote work environment. \n As an Office Assistant, you will help support daily administrative operations, assist with entry-level bookkeeping, organize client documents, support internal reporting, and help maintain accurate company records. This position offers strong growth potential for the right candidate, including opportunities",
       "date": "Sun, 11 Oct 2026 20:17:27 GMT",
       "source": "Remotive (emplois à distance)",
+      "location": ""
+    },
+    {
+      "title": "Assistant du responsable du service départemental de protection enfance famille (h/f)",
+      "url": "https://www.emploi-territorial.fr/offre/o083261002000363-assistant-responsable-service-departemental-protection-enfance-famille?mtm_campaign=rss",
+      "description": "Employeur :   Conseil Départemental du Var \n                      Métier(s) :   Assistant familial en protection de l'enfance \n                      Grade(s) :   Adjoint administratif, Adjoint adm. principal de 2ème classe, Adjoint adm. principal de 1ère classe \n                      Date de publication :   du 10/11/2026 au 10/12/2026 \n                      Date limite de candidature :   10/12/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Oui \n                                          Temps de travail :   Temps complet (35h00) \n                                          Lieu de travail :",
+      "date": "Tue, 10 Nov 2026 00:00:00 +0000",
+      "source": "Flux personnalisé",
       "location": ""
     },
     {
@@ -931,7 +939,7 @@
     }
   ],
   "log": [
-    "Remotive (emplois à distance): 13 entrées",
+    "Remotive (emplois à distance): 14 entrées",
     "Flux personnalisé: 100 entrées",
     "Flux personnalisé: 17 entrées"
   ],
