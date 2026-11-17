@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T15:25:04.493287+00:00",
+  "updated_at": "2026-11-17T00:06:25.330886+00:00",
   "offers": [
     {
       "title": "Content Creator - YouTube",
@@ -274,18 +274,18 @@
       "location": ""
     },
     {
-      "title": "Assistant pédagogique Campus Connecté Draguignan (h/f)",
-      "url": "https://www.emploi-territorial.fr/offre/o083261012001149-assistant-pedagogique-campus-connecte-draguignan?mtm_campaign=rss",
-      "description": "Employeur :   Dracénie Provence verdon Agglomération - DRAGUIGNAN \n                      Métier(s) :   Assistant de gestion administrative \n                      Grade(s) :   Adjoint adm. principal de 1ère classe, Adjoint administratif, Adjoint adm. principal de 2ème classe \n                      Date de publication :   du 16/10/2026 au 16/11/2026 \n                      Date limite de candidature :   16/11/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Non \n                                          Temps de travail :   Temps non complet (18h00) \n                                          ",
-      "date": "Mon, 12 Oct 2026 00:00:00 +0000",
-      "source": "Flux personnalisé",
-      "location": ""
-    },
-    {
       "title": "DIT - Assistant technique et administratif du responsable du service prélèvements (h/f)",
       "url": "https://www.emploi-territorial.fr/offre/o083260928000038-dit-assistant-technique-administratif-responsable-service-prelevements?mtm_campaign=rss",
       "description": "Employeur :   Conseil Départemental du Var \n                      Métier(s) :   Assistant de gestion administrative \n                      Grade(s) :   Technicien, Technicien principal de 2ème classe, Technicien principal de 1ère classe, Rédacteur, Rédacteur principal de 2ème classe, Rédacteur principal de 1ère classe \n                      Date de publication :   du 28/09/2026 au 27/11/2026 \n                      Date limite de candidature :   27/11/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Non \n                                          Temps de travail :   Temps complet (35h00) \n ",
       "date": "Mon, 28 Sep 2026 00:00:00 +0000",
+      "source": "Flux personnalisé",
+      "location": ""
+    },
+    {
+      "title": "Assistant pédagogique Campus Connecté Draguignan (h/f)",
+      "url": "https://www.emploi-territorial.fr/offre/o083261012001149-assistant-pedagogique-campus-connecte-draguignan?mtm_campaign=rss",
+      "description": "Employeur :   Dracénie Provence verdon Agglomération - DRAGUIGNAN \n                      Métier(s) :   Assistant de gestion administrative \n                      Grade(s) :   Adjoint adm. principal de 1ère classe, Adjoint administratif, Adjoint adm. principal de 2ème classe \n                      Date de publication :   du 16/10/2026 au 16/11/2026 \n                      Date limite de candidature :   16/11/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Non \n                                          Temps de travail :   Temps non complet (18h00) \n                                          ",
+      "date": "Mon, 12 Oct 2026 00:00:00 +0000",
       "source": "Flux personnalisé",
       "location": ""
     },
@@ -1021,7 +1021,7 @@
   "log": [
     "Remotive (emplois à distance): 17 entrées",
     "Flux personnalisé: 100 entrées",
-    "Flux personnalisé: 15 entrées"
+    "Flux personnalisé: 14 entrées"
   ],
   "note": "Sources RSS/Atom publiques uniquement ; les pages de recrutement HTML nécessitent une intégration dédiée. Vérifier chaque annonce."
 }
