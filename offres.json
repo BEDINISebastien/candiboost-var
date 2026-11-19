@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T15:32:54.727627+00:00",
+  "updated_at": "2026-11-19T22:58:08.646333+00:00",
   "offers": [
     {
       "title": "Content Creator - YouTube",
@@ -106,14 +106,6 @@
       "location": ""
     },
     {
-      "title": "Chargé(e) d’étude et d’évaluation",
-      "url": "https://www.emploi-territorial.fr/offre/o083261110001248-charge-e-etude-evaluation?mtm_campaign=rss",
-      "description": "Employeur :   SDIS du Var \n                      Métier(s) :   Contrôleur de gestion \n                      Grade(s) :   Rédacteur, Rédacteur principal de 2ème classe, Rédacteur principal de 1ère classe \n                      Date de publication :   du 12/11/2026 au 31/12/2026 \n                      Date limite de candidature :   31/12/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Oui \n                                          Temps de travail :   Temps complet (35h00) \n                                          Lieu de travail :   Le Muy \n                                         Plus de",
-      "date": "Thu, 12 Nov 2026 10:56:30 +0000",
-      "source": "Flux personnalisé",
-      "location": ""
-    },
-    {
       "title": "Secrétaire polyvalent(e) à l'EHPAD Le Saphir",
       "url": "https://www.emploi-territorial.fr/offre/o083261109000719-secretaire-polyvalent-e-ehpad-le-saphir?mtm_campaign=rss",
       "description": "Employeur :   CCAS de TOULON \n                      Métier(s) :   Assistant de gestion administrative \n                      Grade(s) :   Adjoint adm. principal de 2ème classe, Adjoint administratif, Rédacteur principal de 1ère classe \n                      Date de publication :   du 09/11/2026 au 13/12/2026 \n                      Date limite de candidature :   13/12/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Oui \n                                          Temps de travail :   Temps complet (35h00) \n                                          Lieu de travail :   Toulon \n                ",
@@ -158,6 +150,14 @@
       "url": "https://www.emploi-territorial.fr/offre/o083261023000244-gestionnaire-allocation-rsa-pole-dispositifs-direction-publics-service-gestion-allocation-rsa-cellule-hors-provence-mediterranee?mtm_campaign=rss",
       "description": "Employeur :   Conseil Départemental du Var \n                      Métier(s) :   Assistant de gestion administrative \n                      Grade(s) :   Adjoint administratif, Adjoint adm. principal de 2ème classe, Adjoint adm. principal de 1ère classe \n                      Date de publication :   du 23/10/2026 au 22/12/2026 \n                      Date limite de candidature :   22/12/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Oui \n                                          Temps de travail :   Temps complet (35h00) \n                                          Lieu de travail :   Draguig",
       "date": "Fri, 23 Oct 2026 00:00:00 +0000",
+      "source": "Flux personnalisé",
+      "location": ""
+    },
+    {
+      "title": "Chargé(e) d’étude et d’évaluation",
+      "url": "https://www.emploi-territorial.fr/offre/o083261110001248-charge-e-etude-evaluation?mtm_campaign=rss",
+      "description": "Employeur :   SDIS du Var \n                      Métier(s) :   Contrôleur de gestion \n                      Grade(s) :   Rédacteur, Rédacteur principal de 2ème classe, Rédacteur principal de 1ère classe \n                      Date de publication :   du 12/11/2026 au 31/12/2026 \n                      Date limite de candidature :   31/12/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Oui \n                                          Temps de travail :   Temps complet (35h00) \n                                          Lieu de travail :   Le Muy \n                                         Plus de",
+      "date": "Thu, 12 Nov 2026 10:56:30 +0000",
       "source": "Flux personnalisé",
       "location": ""
     },
@@ -1059,7 +1059,7 @@
     }
   ],
   "log": [
-    "Remotive (emplois à distance): 15 entrées",
+    "Remotive (emplois à distance): 16 entrées",
     "Flux personnalisé: 100 entrées",
     "Flux personnalisé: 17 entrées"
   ],
