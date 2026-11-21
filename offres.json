@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T22:34:01.310504+00:00",
+  "updated_at": "2026-11-21T14:28:35.533404+00:00",
   "offers": [
     {
       "title": "Content Creator - YouTube",
@@ -194,18 +194,18 @@
       "location": ""
     },
     {
-      "title": "Gestionnaire administratif et financier  (h/f)",
-      "url": "https://www.emploi-territorial.fr/offre/o083261026000286-gestionnaire-administratif-financier?mtm_campaign=rss",
-      "description": "Employeur :   SI des Transports du Haut Var \n                      Métier(s) :   Assistant de gestion administrative \n                      Grade(s) :   Adjoint administratif \n                      Date de publication :   du 29/10/2026 au 20/11/2026 \n                      Date limite de candidature :   20/11/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Oui \n                                          Temps de travail :   Temps non complet (12h00) \n                                          Lieu de travail :   Montmeyan \n                                          Rémunération indicative :  ",
-      "date": "Thu, 29 Oct 2026 13:07:55 +0000",
-      "source": "Flux personnalisé",
-      "location": ""
-    },
-    {
       "title": "Gestionnaire de l'allocation RSA (h/f) - Pôle dispositifs en direction des publics - service gestion de l'allocation RSA - Cellule hors Provence Méditerranée",
       "url": "https://www.emploi-territorial.fr/offre/o083261023000244-gestionnaire-allocation-rsa-pole-dispositifs-direction-publics-service-gestion-allocation-rsa-cellule-hors-provence-mediterranee?mtm_campaign=rss",
       "description": "Employeur :   Conseil Départemental du Var \n                      Métier(s) :   Assistant de gestion administrative \n                      Grade(s) :   Adjoint administratif, Adjoint adm. principal de 2ème classe, Adjoint adm. principal de 1ère classe \n                      Date de publication :   du 23/10/2026 au 22/12/2026 \n                      Date limite de candidature :   22/12/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Oui \n                                          Temps de travail :   Temps complet (35h00) \n                                          Lieu de travail :   Draguig",
       "date": "Fri, 23 Oct 2026 00:00:00 +0000",
+      "source": "Flux personnalisé",
+      "location": ""
+    },
+    {
+      "title": "Gestionnaire administratif et financier  (h/f)",
+      "url": "https://www.emploi-territorial.fr/offre/o083261026000286-gestionnaire-administratif-financier?mtm_campaign=rss",
+      "description": "Employeur :   SI des Transports du Haut Var \n                      Métier(s) :   Assistant de gestion administrative \n                      Grade(s) :   Adjoint administratif \n                      Date de publication :   du 29/10/2026 au 20/11/2026 \n                      Date limite de candidature :   20/11/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Oui \n                                          Temps de travail :   Temps non complet (12h00) \n                                          Lieu de travail :   Montmeyan \n                                          Rémunération indicative :  ",
+      "date": "Thu, 29 Oct 2026 13:07:55 +0000",
       "source": "Flux personnalisé",
       "location": ""
     },
@@ -1141,7 +1141,7 @@
   "log": [
     "Remotive (emplois à distance): 16 entrées",
     "Flux personnalisé: 100 entrées",
-    "Flux personnalisé: 18 entrées"
+    "Flux personnalisé: 17 entrées"
   ],
   "note": "Sources RSS/Atom publiques uniquement ; les pages de recrutement HTML nécessitent une intégration dédiée. Vérifier chaque annonce."
 }
