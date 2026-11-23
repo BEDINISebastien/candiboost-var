@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T21:38:36.254660+00:00",
+  "updated_at": "2026-11-23T17:49:13.555646+00:00",
   "offers": [
     {
       "title": "Content Creator - YouTube",
@@ -122,14 +122,6 @@
       "location": ""
     },
     {
-      "title": "Chef de la cellule coordination gestion du domaine public (h/f)",
-      "url": "https://www.emploi-territorial.fr/offre/o083261118001252-chef-cellule-coordination-gestion-domaine-public?mtm_campaign=rss",
-      "description": "Employeur :   Conseil Départemental du Var \n                      Métier(s) :   Chef ou cheffe de projet foncier, urbanisme et aménagement \n                      Grade(s) :   Ingénieur principal, Ingénieur \n                      Date de publication :   du 18/11/2026 au 18/12/2026 \n                      Date limite de candidature :   18/12/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Oui \n                                          Temps de travail :   Temps complet (35h00) \n                                          Lieu de travail :   Fréjus \n                                         Plus",
-      "date": "Wed, 18 Nov 2026 14:44:56 +0000",
-      "source": "Flux personnalisé",
-      "location": ""
-    },
-    {
       "title": "Coordinateur du pôle gestion intégrée de la ressource et milieux aquatiques (h/f)",
       "url": "https://www.emploi-territorial.fr/offre/o083261117001016-coordinateur-pole-gestion-integree-ressource-milieux-aquatiques?mtm_campaign=rss",
       "description": "Employeur :   Syndicat Mixte de l'Argens \n                      Métier(s) :   Chef de projet rivière et milieux aquatiques \n                      Grade(s) :   Ingénieur, Ingénieur principal \n                      Date de publication :   du 17/11/2026 au 16/01/2027 \n                      Date limite de candidature :   16/01/2027 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Oui \n                                          Temps de travail :   Temps complet (35h00) \n                                          Lieu de travail :   Brignoles \n                                          Rémunération ind",
@@ -198,6 +190,14 @@
       "url": "https://www.emploi-territorial.fr/offre/o083261023000244-gestionnaire-allocation-rsa-pole-dispositifs-direction-publics-service-gestion-allocation-rsa-cellule-hors-provence-mediterranee?mtm_campaign=rss",
       "description": "Employeur :   Conseil Départemental du Var \n                      Métier(s) :   Assistant de gestion administrative \n                      Grade(s) :   Adjoint administratif, Adjoint adm. principal de 2ème classe, Adjoint adm. principal de 1ère classe \n                      Date de publication :   du 23/10/2026 au 22/12/2026 \n                      Date limite de candidature :   22/12/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Oui \n                                          Temps de travail :   Temps complet (35h00) \n                                          Lieu de travail :   Draguig",
       "date": "Fri, 23 Oct 2026 00:00:00 +0000",
+      "source": "Flux personnalisé",
+      "location": ""
+    },
+    {
+      "title": "Chef de la cellule coordination gestion du domaine public (h/f)",
+      "url": "https://www.emploi-territorial.fr/offre/o083261118001252-chef-cellule-coordination-gestion-domaine-public?mtm_campaign=rss",
+      "description": "Employeur :   Conseil Départemental du Var \n                      Métier(s) :   Chef ou cheffe de projet foncier, urbanisme et aménagement \n                      Grade(s) :   Ingénieur principal, Ingénieur \n                      Date de publication :   du 18/11/2026 au 18/12/2026 \n                      Date limite de candidature :   18/12/2026 \n                      Type d'emploi :   Emploi permanent - vacance d'emploi \n                                          Ouvert aux contractuels :   Oui \n                                          Temps de travail :   Temps complet (35h00) \n                                          Lieu de travail :   Fréjus \n                                         Plus",
+      "date": "Wed, 18 Nov 2026 14:44:56 +0000",
       "source": "Flux personnalisé",
       "location": ""
     },
@@ -1139,7 +1139,7 @@
     }
   ],
   "log": [
-    "Remotive (emplois à distance): 16 entrées",
+    "Remotive (emplois à distance): 15 entrées",
     "Flux personnalisé: 100 entrées",
     "Flux personnalisé: 16 entrées"
   ],
